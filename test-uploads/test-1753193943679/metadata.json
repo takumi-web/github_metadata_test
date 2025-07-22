@@ -1,0 +1,19 @@
+{
+  "testId": "test-1753193943679",
+  "timestamp": "2025-07-22T14:19:03.679Z",
+  "studentData": {
+    "name": "山田太郎（テスト）",
+    "grade": "小学3年",
+    "stage": "ステージ2"
+  },
+  "assessmentResults": {
+    "listening": 3,
+    "reading": 2,
+    "writing": 1
+  },
+  "metadata": {
+    "version": 1,
+    "createdBy": "GitHub App Test Script",
+    "environment": "development"
+  }
+}
